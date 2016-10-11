@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dict-check/dict-check.c
+dictionary.h
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dict-check/dictionary.h
+assert.h
+-
+locale.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+wctype.h
+-
+
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dictionary/dictionary.h
+word_list.h
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dictionary/word_list.h
+word_tree.h
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dictionary/word_tree.h
+stdio.h
+-
+wchar.h
+-
+
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dictionary/word_list.h
+wchar.h
+-
+stdbool.h
+-
+
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dictionary/word_tree.h
+wchar.h
+-
+stdbool.h
+-
+

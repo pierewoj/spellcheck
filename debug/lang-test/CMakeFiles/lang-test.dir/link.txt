@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -O3    CMakeFiles/lang-test.dir/lang-test.c.o  -o lang-test -rdynamic ../dictionary/libdictionary.a 

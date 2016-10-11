@@ -1,0 +1,9 @@
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dict-check/CMakeFiles/dict-check.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dict-editor/CMakeFiles/dict-editor.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/CMakeFiles/dictionary.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/CMakeFiles/dictionary_test.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/CMakeFiles/doc.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/lang-test/CMakeFiles/lang-test.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/CMakeFiles/word_list_test.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/CMakeFiles/word_tree_io_test.dir
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/CMakeFiles/word_tree_test.dir

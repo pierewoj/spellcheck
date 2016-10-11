@@ -1,0 +1,6 @@
+word_list_unit_test 1 0.009202
+dict-editor_global_test 2 0.0169375
+dictionary_unit_test 1 0.00867701
+word_tree_unit_test 1 0.00914001
+word_tree_io_unit_test 1 0.00893402
+---

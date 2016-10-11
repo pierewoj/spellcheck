@@ -1,0 +1,36 @@
+Start testing: May 25 13:23 CEST
+----------------------------------------------------------
+1/1 Testing: word_list_unit_test
+1/1 Test: word_list_unit_test
+Command: "/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/word_list_test"
+Directory: /home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary
+"word_list_unit_test" start time: May 25 13:23 CEST
+Output:
+----------------------------------------------------------
+[==========] Running 4 test(s).
+[ RUN      ] word_list_init_test
+[       OK ] word_list_init_test
+[ RUN      ] word_list_add_test
+[  FAILED  ] word_list_add_test
+[ RUN      ] word_list_get_test
+[       OK ] word_list_get_test
+[ RUN      ] word_list_repeat_test
+[       OK ] word_list_repeat_test
+[==========] 4 test(s) run.
+wcscmp(test, word_list_get(&l)[0]) == 1
+/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/dictionary/word_list_test.c:25: error: Failure!
+
+[  PASSED  ] 3 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] word_list_add_test
+
+ 1 FAILED TEST(S)
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"word_list_unit_test" end time: May 25 13:23 CEST
+"word_list_unit_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 25 13:23 CEST

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -O3    CMakeFiles/word_tree_io_test.dir/word_list.c.o CMakeFiles/word_tree_io_test.dir/word_tree_io_test.c.o  -o word_tree_io_test -rdynamic /usr/local/lib/libcmocka.so -Wl,-rpath,/usr/local/lib 

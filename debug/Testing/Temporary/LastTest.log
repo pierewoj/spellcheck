@@ -1,0 +1,130 @@
+Start testing: Jun 02 20:23 CEST
+----------------------------------------------------------
+1/5 Testing: word_list_unit_test
+1/5 Test: word_list_unit_test
+Command: "/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/word_list_test"
+Directory: /home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary
+"word_list_unit_test" start time: Jun 02 20:23 CEST
+Output:
+----------------------------------------------------------
+[==========] Running 4 test(s).
+[ RUN      ] word_list_init_test
+[       OK ] word_list_init_test
+[ RUN      ] word_list_add_test
+[       OK ] word_list_add_test
+[ RUN      ] word_list_get_test
+[       OK ] word_list_get_test
+[ RUN      ] word_list_repeat_test
+[       OK ] word_list_repeat_test
+[==========] 4 test(s) run.
+[  PASSED  ] 4 test(s).
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"word_list_unit_test" end time: Jun 02 20:23 CEST
+"word_list_unit_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: dictionary_unit_test
+2/5 Test: dictionary_unit_test
+Command: "/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/dictionary_test"
+Directory: /home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary
+"dictionary_unit_test" start time: Jun 02 20:23 CEST
+Output:
+----------------------------------------------------------
+[==========] Running 4 test(s).
+[ RUN      ] dictionary_simple_add_remove_test
+[       OK ] dictionary_simple_add_remove_test
+[ RUN      ] dictionary_setup_test
+[       OK ] dictionary_setup_test
+[ RUN      ] dictionary_find_test
+[       OK ] dictionary_find_test
+[ RUN      ] dictionary_hint_test
+[       OK ] dictionary_hint_test
+[==========] 4 test(s) run.
+[  PASSED  ] 4 test(s).
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"dictionary_unit_test" end time: Jun 02 20:23 CEST
+"dictionary_unit_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: word_tree_unit_test
+3/5 Test: word_tree_unit_test
+Command: "/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/word_tree_test"
+Directory: /home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary
+"word_tree_unit_test" start time: Jun 02 20:23 CEST
+Output:
+----------------------------------------------------------
+[==========] Running 9 test(s).
+[ RUN      ] word_tree_add_test
+[       OK ] word_tree_add_test
+[ RUN      ] word_tree_delete_test
+[       OK ] word_tree_delete_test
+[ RUN      ] word_tree_find_test
+[       OK ] word_tree_find_test
+[ RUN      ] word_tree_delete_redundant_test
+[       OK ] word_tree_delete_redundant_test
+[ RUN      ] word_tree_add_chars_test
+[       OK ] word_tree_add_chars_test
+[ RUN      ] word_tree_binsearch_test
+[       OK ] word_tree_binsearch_test
+[ RUN      ] word_tree_find_next_test
+[       OK ] word_tree_find_next_test
+[ RUN      ] word_tree_add_next_test
+[       OK ] word_tree_add_next_test
+[ RUN      ] word_tree_delete_next_test
+[       OK ] word_tree_delete_next_test
+[==========] 9 test(s) run.
+[  PASSED  ] 9 test(s).
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"word_tree_unit_test" end time: Jun 02 20:23 CEST
+"word_tree_unit_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: word_tree_io_unit_test
+4/5 Test: word_tree_io_unit_test
+Command: "/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary/word_tree_io_test"
+Directory: /home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dictionary
+"word_tree_io_unit_test" start time: Jun 02 20:23 CEST
+Output:
+----------------------------------------------------------
+[==========] Running 3 test(s).
+[ RUN      ] word_tree_save_test
+[       OK ] word_tree_save_test
+[ RUN      ] word_tree_load_test
+[       OK ] word_tree_load_test
+[ RUN      ] word_tree_complex_io_1
+[       OK ] word_tree_complex_io_1
+[==========] 3 test(s) run.
+[  PASSED  ] 3 test(s).
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"word_tree_io_unit_test" end time: Jun 02 20:23 CEST
+"word_tree_io_unit_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: dict-editor_global_test
+5/5 Test: dict-editor_global_test
+Command: "/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/tests/dict-editor/test.sh" "/home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/debug/dict-editor/dict-editor"
+Directory: /home/students/inf/j/jp360641/Dokumenty/spellcheck-jp360641/src/../tests/dict-editor
+"dict-editor_global_test" start time: Jun 02 20:23 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"dict-editor_global_test" end time: Jun 02 20:23 CEST
+"dict-editor_global_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 02 20:23 CEST
